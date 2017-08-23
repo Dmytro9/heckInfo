@@ -1,0 +1,22 @@
+{name} - имя клиента (ex: Yevhenii Pylypenko)
+
+{uid} - id клиента (ex: 118447)
+
+{mail} - email клиента (ex: yevhenii.pylypenko@gmail.com)
+
+{nick_name} - имя клиента (ex: Yevhenii Pylypenko)
+
+{phone} - номер телефона клиента (ex: +380675039755 )
+
+{status_name} - do not use
+{last_access} - do not use
+
+{site_name} - имя сайта (ex: GetEssays.com)
+
+{site_mail} - support email сайта (ex: support@getessays.com)
+
+{site_address} - ссылка на форму заказа (ex: https://getessays.com/manage/)
+
+{supporter_name} - имя пользователя, который делает отправку (ex: i.vasilyeva)
+
+{view_mail_browser} - ссылка на браузерную версию письма

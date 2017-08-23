@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d876bbd4-4332-48b5-89b8-815c369d2042" name="order_forms" url="http://184.75.249.26">
+        <fileTransfer host="184.75.249.26" port="22" rootFolder="/var/www/html/onewriting.com/manage/" accessType="SFTP" password="dfd2df8edfc9df8bdf8cdfeedfebdff0dfcddfe0dfe9dfffdff5df92df8fdfdddf9ddff4df99df9edff0dfd8df9fdf89dff8dfc4dfeadfe7" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

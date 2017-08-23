@@ -1,0 +1,22 @@
+123Dissertations   -  app.js  main.css  contact.html
+
+
+http://mypaperwriting.com.loc/
+http://domyhomework123.com.loc/
+
+
+
+
+http://dissertationteam-flat.com.loc/
+
+
+
+ <script>
+            window.onload = function takeErr() {
+                var discountErr =  document.getElementById('theme-error_discount');
+                if (typeof(discountErr) != 'undefined' && discountErr != null)
+                {
+                    document.getElementById('theme_hidden').appendChild(discountErr);
+                }
+            }
+        </script>

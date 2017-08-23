@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    height: 100%;
+    width: 100%;
+}
+
+table{
+    margin: 0;
+    padding: 0;
+}
+
+.table-width-container{
+    max-width: 600px !important;
+}
+
+.header-logo{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+
+.head-txt span, .head-txt-2 span{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    -webkit-text-size-adjust:none;
+    display: block;
+}
+
+.header-logo span a{
+    font-weight: 400;
+    color: #000000 !important;
+    -webkit-text-size-adjust:none;
+    display: block;
+    text-decoration: none;
+    font-family: ' Tahoma', Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+
+.head-txt {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.head-txt span{
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 700;
+    white-space: nowrap;
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.head-txt span b{
+    color: #febf00;
+    font-size: 40px;
+    line-height: 40px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.head-txt-2 span{
+    font-size: 34px;
+    line-height: 34px;
+    font-weight: 700;
+}
+.content-center{
+    margin: 0 auto;
+}
+.coupon-code{
+    padding-bottom: 20px;
+}
+
+.coupon-code span{
+    color: #c38fcb;
+    font-weight: 400;
+    line-height: 38px;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    font-family: 'Tahoma', 'Geneva', sans-serif;
+}
+.coupon-code .code-valid{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Tahoma', 'Geneva', sans-serif;
+    color: #000000 !important;
+    letter-spacing: 1px;
+
+}
+
+.counter{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.counter_wrap{
+    margin: auto;
+    text-align: center;
+}
+
+/*button*/
+.gift-button{
+    max-width: 200px;
+}
+.gift-button span a{
+    width: 200px;
+    max-width: 200px!important;
+    min-width: 200px!important;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #010101;
+    font-family: 'Tahoma', 'Geneva', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.web-version{
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.web-version span a{
+    color: #000000 !important;
+    font-family: 'Tahoma', Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: underline !important;
+}
+
+.footer-text{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.footer-text span{
+    color: #000000 !important;
+    font-family: 'Tahoma', 'Geneva', sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    text-decoration: none !important;
+}
+.footer-text.last-text-block{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.footer_valid_date{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 25px;
+}
+
+.footer_valid_date span{
+    color: #3c3c3c !important;
+    text-decoration: none !important;
+    font-family: 'Tahoma', 'Geneva', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+
+.footer_valid_date .appleLinksWhite a {color: #3c3c3c !important; text-decoration: none!important;}
+
+.appleLinksWhite a {color: #000000 !important; text-decoration: underline;}
+.appleLinksBlack a {color: #000000 !important; text-decoration: none;}
+
+
+/*move to the html in head*/
